@@ -1,0 +1,10 @@
+body {
+    padding-top: 70px;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    z-index: 1000;
+}
